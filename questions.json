@@ -2858,7 +2858,7 @@
   {
     "category": "Movies",
     "points": 30,
-    "question": "Here’s Johnny!' is an infamous line from this horrow movie",
+    "question": "Here’s Johnny!' is an infamous line from this horror movie",
     "options": [
       "THE SHINING",
       "SIXTH SENSE",
@@ -4103,4 +4103,5 @@
     ],
     "answer": 1
   }
+
 ]
